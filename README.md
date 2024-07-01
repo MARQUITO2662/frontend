@@ -68,3 +68,80 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+### README.md para Frontend (React)
+
+```markdown
+# Frontend del Proyecto
+
+Este repositorio contiene el código fuente del frontend del proyecto de autenticación utilizando React.js para la interfaz de usuario.
+
+## Estructura del Proyecto
+
+- **`/public`**: Archivos estáticos y `index.html`.
+- **`/src`**: Carpeta principal del código fuente del frontend.
+  - **`/src/components`**: Componentes reutilizables.
+  - **`/src/context`**: Contextos para la gestión del estado global.
+  - **`/src/pages`**: Páginas principales de la aplicación.
+  - **`/src/services`**: Configuración de servicios para hacer peticiones HTTP.
+  - **`/src/App.js`**: Componente principal que define las rutas de la aplicación.
+  - **`/src/index.js`**: Punto de entrada de la aplicación React.
+- **`/package.json`**: Archivo de configuración de npm con las dependencias del proyecto.
+
+## Configuración y Ejecución
+
+1. **Instalación de Dependencias**
+   ```bash
+   npm install
+
+
+bisbirudolfo7@gmail.com
+
+Olvidemicontraseña7
+
+bisbirudolfo8@gmail.com
+Olvidemicontraseña8
+
+bisbirudolfo9@gmail.com
+Olvidemicontraseña9
+bisbirudolfo10@gmail.com
+Olvidemicontraseña10
+bisbirudolfo11@gmail.com
+Olvidemicontraseña11
+bisbirudolfo12@gmail.com
+Olvidemicontraseña12
+bisbirudolfo13@gmail.com
+Olvidemicontraseña13
+
+bisbirudolfo14@gmail.com
+Olvidemicontraseña14
+bisbirudolfo15@gmail.com
+Olvidemicontraseña15
+
+
+bisbirudolfo16@gmail.com
+Olvidemicontraseña16
+
+bisbirudolfo17@gmail.com
+Olvidemicontraseña17
+bisbirudolfo18@gmail.com
+Olvidemicontraseña18
+
+bisbirudolfo19@gmail.com
+Olvidemicontraseña19
+
+bisbirudolfo20@gmail.com
+Olvidemicontraseña20
+
+
+MARQUITO2662@GMAIL.COM
+MARCOANTONIO2662
+
+MARQUITO2662@HOTMAIL.COM
+MARCOANTONIO2662
+
+MARQUITO2662@YAHOO.ES
+MARCOANTONIO2662
